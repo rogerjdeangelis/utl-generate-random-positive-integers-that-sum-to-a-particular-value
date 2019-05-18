@@ -1,5 +1,7 @@
 Generate five thousand random positive integers that sum to one twenty five thousand
 
+Generate random positive integers that sum to a particular value
+
 github
 https://tinyurl.com/yxb98npt
 https://github.com/rogerjdeangelis/utl-generate-random-positive-integers-that-sum-to-a-particular-value
@@ -31,7 +33,7 @@ http://sekhon.berkeley.edu/robust/rmultinomial.html
 
 Number of patients.              25,000
 Number of clinical trials        5000
-Probability patients in a trial  1/6000 (not 1/5000 * 25000 = abg 5 patients in a trial)
+Probability patients in a trial  1/5000 (not 1/5000 * 25000 = abg 5 patients in a trial)
 
 *            _               _
   ___  _   _| |_ _ __  _   _| |_
