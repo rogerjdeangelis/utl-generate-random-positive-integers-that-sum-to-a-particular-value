@@ -33,7 +33,7 @@ http://sekhon.berkeley.edu/robust/rmultinomial.html
 
 Number of patients.              25,000
 Number of clinical trials        5000
-Probability patients in a trial  1/5000 (not 1/5000 * 25000 = abg 5 patients in a trial)
+Probability patients in a trial  1/5000 ( 1/5000 * 25000 = avg 5 patients in a trial)
 
 *            _               _
   ___  _   _| |_ _ __  _   _| |_
